@@ -11,13 +11,19 @@ Research Questions or Objectives
 
 
 **Data Source**
+
   •	The data has been collected from HIFLD (arcgis.com), containing information about healthcare facilities for the elderly.
 Data Format
+
   •	The dataset is in CSV format and includes details such as facility name, address, city, state, facility type, operational status, bed capacity, and population served.
 Methodology and Techniques
+
 Tools Used:
+
   •	Excel: Utilized for data cleaning and preprocessing.
+  
   •	Power BI: Employed for data visualization.
+  
 Process:
 1.	Initial data inspection and cleaning (verifying data types, row and column counts, checking for duplicates and null values).
 2.	Addressing outliers and logical issues within the data.
