@@ -6,6 +6,7 @@ This project aims to provide a comprehensive overview of the distribution of hea
 Summary
 
 By analyzing data from healthcare facilities, this project offers valuable insights that can guide decision-making related to the management and allocation of resources within the healthcare sector.
+
 Research Questions or Objectives
 1.	Which ownership types dominate the healthcare facilities in the United States?
 2.	How do operational status and bed occupancy rates impact resource allocation in healthcare?
