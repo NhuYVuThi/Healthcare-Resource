@@ -1,4 +1,5 @@
 **Project Description**
+
 **Introduction**
 This project aims to provide a comprehensive overview of the distribution of healthcare facilities in the United States, including information on bed capacity, operational status of facilities, and the population served. The primary goal is to support efficient resource allocation and healthcare planning.
 Summary
@@ -7,6 +8,8 @@ Research Questions or Objectives
 1.	Which ownership types dominate the healthcare facilities in the United States?
 2.	How do operational status and bed occupancy rates impact resource allocation in healthcare?
 3.	What is the effect of facility type distribution on the ability to serve the population?
+
+
 **Data Source**
   •	The data has been collected from HIFLD (arcgis.com), containing information about healthcare facilities for the elderly.
 Data Format
@@ -19,6 +22,7 @@ Process:
 1.	Initial data inspection and cleaning (verifying data types, row and column counts, checking for duplicates and null values).
 2.	Addressing outliers and logical issues within the data.
 3.	Conducting analysis and making decisions based on the cleaned dataset.
+
 **Analysis and Results**
 ![image](https://github.com/user-attachments/assets/8732571b-8278-4b46-966d-cf67f24bcd2b)
 Healthcare Facility Distribution:
@@ -63,8 +67,10 @@ General Analysis:
   •	Accessibility: The number of beds and healthcare facilities must meet the needs of the population of 986K.
   •	Operational Status: Monitoring the number of closed facilities is essential for understanding the sustainability of healthcare services in the region.
   •	Helipad Distribution: The presence of helipads may impact patient transportation and emergency response capabilities.
+
 _Findings_
   1.	Distribution of Healthcare Facilities:
+  
 o	The Southern and Midwest regions have a higher density of healthcare facilities compared to other areas, suggesting these regions may have greater healthcare needs or better opportunities for establishing new facilities.
   2.	Bed Occupancy Rates:
 o	The highest bed occupancy rate in the Northeast (95.37%) indicates significant pressure on healthcare facilities in this region. Conversely, the Midwest, with an occupancy rate of 87.12%, remains high but is less critical than the Northeast.
@@ -76,7 +82,9 @@ o	Classification charts reveal a diverse range of healthcare needs, from general
 o	Monitoring the number of closed facilities is vital, as an increase in closures may indicate declining service provision, necessitating timely interventions to prevent service shortages.
   6.	Helipad Distribution:
 o	The presence of helipads at healthcare facilities can significantly impact patient accessibility and transportation during emergencies, emphasizing the importance of these infrastructures in improving response times.
+
 _Recommendations_
+
   1.	Develop Healthcare Facilities in Underserved Areas:
 o	Consider expanding healthcare facilities in the Northeast, where bed occupancy rates are high, to address the growing demand for care.
   2.	Invest in Specialized Care Services:
