@@ -2,7 +2,9 @@
 
 **Introduction**
 This project aims to provide a comprehensive overview of the distribution of healthcare facilities in the United States, including information on bed capacity, operational status of facilities, and the population served. The primary goal is to support efficient resource allocation and healthcare planning.
+
 Summary
+
 By analyzing data from healthcare facilities, this project offers valuable insights that can guide decision-making related to the management and allocation of resources within the healthcare sector.
 Research Questions or Objectives
 1.	Which ownership types dominate the healthcare facilities in the United States?
