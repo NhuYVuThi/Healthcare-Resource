@@ -44,13 +44,16 @@ Key Metrics:
 3.	Population (986K): Reflects the total population in this region, which can help determine healthcare needs.
 4.	Total Bed Capacity (986K): This metric shows the patient accommodation capability of healthcare facilities.
 Ownership Distribution:
+
   •	A pie chart illustrates the distribution of ownership types:
 o	Government: 0.5K (7.5%)
 o	Government-Dist.: 0.52K (7.72%)
 o	Proprietary: 1.98K (29.6%)
 o	Non-profit: 3.4K (50.78%)
 This shows that the majority of healthcare facilities are non-profit, indicating a trend towards the development of community-oriented healthcare services.
+
 Classification by Facility Type:
+
   •	A chart displays population distribution across various healthcare types, including:
 o	General acute care
 o	Psychiatric
@@ -63,15 +66,23 @@ o	Special
 o	Women
 o	Chronic disease
 This provides insights into the healthcare needs of different population groups.
+
 Facility Status:
+
   •	A table enumerates healthcare facilities by specialty, indicating the number of closed and open facilities:
 o	Total Facilities: 6696
 o	Number of facilities closed and opened by specialty.
+
 Helipad Distribution:
+
   •	A chart detailing the presence of helipads at healthcare facilities, categorized by size (Large, Medium-large, Small, Small-medium). This data can influence emergency service accessibility.
+  
 General Analysis:
+
   •	Accessibility: The number of beds and healthcare facilities must meet the needs of the population of 986K.
+  
   •	Operational Status: Monitoring the number of closed facilities is essential for understanding the sustainability of healthcare services in the region.
+  
   •	Helipad Distribution: The presence of helipads may impact patient transportation and emergency response capabilities.
 
 _Findings_
