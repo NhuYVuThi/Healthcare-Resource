@@ -69,17 +69,22 @@ General Analysis:
   •	Helipad Distribution: The presence of helipads may impact patient transportation and emergency response capabilities.
 
 _Findings_
-  1.	Distribution of Healthcare Facilities:
-  
+
+  1.	Distribution of Healthcare Facilities: 
 o	The Southern and Midwest regions have a higher density of healthcare facilities compared to other areas, suggesting these regions may have greater healthcare needs or better opportunities for establishing new facilities.
+
   2.	Bed Occupancy Rates:
 o	The highest bed occupancy rate in the Northeast (95.37%) indicates significant pressure on healthcare facilities in this region. Conversely, the Midwest, with an occupancy rate of 87.12%, remains high but is less critical than the Northeast.
+
   3.	Ownership Distribution:
 o	Over 50% of healthcare facilities are non-profit, reflecting a positive trend in developing community-focused healthcare services that can enhance access and service quality.
+
   4.	Healthcare Needs for Population Groups:
 o	Classification charts reveal a diverse range of healthcare needs, from general acute care to specialized services for children, military, and chronic diseases. This underscores the necessity for flexible healthcare policies that adapt to the specific needs of various population groups.
+
   5.	Facility Status:
 o	Monitoring the number of closed facilities is vital, as an increase in closures may indicate declining service provision, necessitating timely interventions to prevent service shortages.
+
   6.	Helipad Distribution:
 o	The presence of helipads at healthcare facilities can significantly impact patient accessibility and transportation during emergencies, emphasizing the importance of these infrastructures in improving response times.
 
