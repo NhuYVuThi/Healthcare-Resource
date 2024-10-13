@@ -35,17 +35,25 @@ Process:
 **Analysis and Results**
 ![image](https://github.com/user-attachments/assets/8732571b-8278-4b46-966d-cf67f24bcd2b)
 Healthcare Facility Distribution:
+
 •	Analysis results indicate that the Southern and Midwest regions exhibit a higher density of healthcare facilities compared to other areas.
+
 •	The highest bed occupancy rate was recorded in the Northeast (95.37%), followed by the Midwest (87.12%).
+
 Dashboard or Visuals: A dashboard created in Power BI displays bed counts, occupancy rates, and distribution across different regions. This dashboard provides a clear and interactive method for monitoring the status and allocation of resources within the U.S. healthcare system.
+
 Overview of Dashboard:
+
 •	Title: "Healthcare Resource Dashboard" – designed to provide an overview of healthcare resources.
+
 •	Regions: Allows selection among various regions, including the Midwest, Northeast, South, Southeast, U.S. territories, and West.
+
 Key Metrics:
 1.	Total Healthcare Facilities (6696): This metric indicates the overall number of healthcare establishments in the region.
 2.	Number of States (55) and Cities (3164): Provides geographical context for the number of facilities.
 3.	Population (986K): Reflects the total population in this region, which can help determine healthcare needs.
 4.	Total Bed Capacity (986K): This metric shows the patient accommodation capability of healthcare facilities.
+
 Ownership Distribution:
 
   •	A pie chart illustrates the distribution of ownership types:
